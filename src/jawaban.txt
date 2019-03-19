@@ -1,0 +1,17 @@
+Tulis jawaban no 6 disini:
+
+NIM:1608145
+
+NAMA:
+
+
+Faradissa Nurul F
+
+
+1. Array yang digunakan belum ArrayList sehingga jika ingin membuat tampungan harus terbatas.
+
+2. Barang yang sudah digunakan tidak berkurang dari kantong
+
+3. Adegan meja seharusnya dibuatkan class tersendiri seperti adegan pintu dan adegan jendela
+
+4. Rumit untuk pembuatan pilihan baru pada array, saya bingung cara membuat pilihan keluar koridor. 
